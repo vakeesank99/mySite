@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap'); 
+
+html, body, [class*="css"] {
+    font-family: 'Roboto', sans-serif; 
+    font-size: 18px;
+    font-weight: 500;
+    
+   
+    
+}
+
+a{
+    text-decoration: none;
+    color: white !important;
+}
+a:hover {
+    text-decoration: none;
+    color: #d33682 !important;
+}
+
+ul{
+    list-style-type: none;
+}
+
+hr{
+    margin-top: 0px;
+    margin-bottom: 5%;
+    width: 100%;
+}
+
+#Mainmenu{visibility:hidden ;}
+footer{visibility: hidden;}
+header{visibility: hidden;}
